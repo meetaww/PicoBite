@@ -1,6 +1,7 @@
 <p align='center'><img src='./showcase/logo.png' width="400px"alt="PicoBite Logo" ></p>
 
-<h3 align="center"><a href="">View the presentaton (Add link in href))</a></h3>
+<h3 align="center"><a href="">View the presentaton (1. https://youtu.be/hfEKB3F9YVU [Presentation video] 
+ 2. https://youtu.be/TYr748KAZmc  [Intro video])</a></h3>
 
 <h2>The problems we address...</h2>
 <p align='justify'>
