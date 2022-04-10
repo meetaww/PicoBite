@@ -78,7 +78,7 @@ We are a group of very enthusiastic developers who are open to learning and expe
 <tr>
     <td align="center">
         <img src="./showcase/pranjali.jpg" width="100px;" alt=""/>
-        <br /><sub><b>Meetabhashini Parida</b></sub><br />
+        <br /><sub><b>Pranjali </b></sub><br />
       <a href="https://github.com/Pranjali912"><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
       <a href="mailto:pranjalipriya001@gmail.com "><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
       <a href="https://www.linkedin.com/in/pranjali-b60a22215/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
